@@ -1,5 +1,7 @@
 # CS 260 Notes
 
+These are intro notes so that I learn to add a commit.
+
 [My startup - Simon](https://simon.cs260.click)
 
 ## Helpful links
