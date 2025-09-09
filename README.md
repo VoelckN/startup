@@ -26,7 +26,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Writing is a huge language learning, especially when it comes to practicing comprehension and high-level thought expression, but its underdeveloped in mobile language learning platforms. This mobile website aims to supplement language learners with opportunities to properly learn and practice writing letters/characters and common words in their target language according to its unique practices, so that students' second language acquisition becomes more balanced and aligned culturally.
 
 ### Design
 
