@@ -18,8 +18,8 @@ A brief description of the application here. Lorem ipsum dolor sit amet, consect
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
 - [ ] Description of key features
 - [ ] Description of how you will use each technology
 - [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
@@ -38,25 +38,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 sequenceDiagram
     actor You
     actor Website
-    You->>Website: Replace this with your design
+    You->>Website: Input
+    Website->>You: Progress
 ```
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Secure login with HTTPS
+- Progress saving per lesson to the login
+- Trace/touch capabilities for writing practice (mobile only)
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Three HTML pages: Login, Language/Lesson Selection, and Writing Practice.
+- **CSS** - Good styling to different screen sizes, consistent branding & colors.
+- **React** - Provides login feature, displays language choices.
+- **Service** - Backend service with endpoints for:
+    - Login
+- **DB/Login** - Stores users, language data in databases.
+- **WebSocket** - Provides progress-saving capabilities
 
 ## 🚀 AWS deliverable
 
