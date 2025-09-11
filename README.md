@@ -30,7 +30,7 @@ Writing is a huge language learning, especially when it comes to practicing comp
 
 ### Design
 
-![Design image](placeholder.png)
+![Three Webpage Parts Sketches](Web_Startup_Sketch.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -47,6 +47,7 @@ sequenceDiagram
 - Secure login with HTTPS
 - Progress saving per lesson to the login
 - Trace/touch capabilities for writing practice (mobile only)
+- Connection to friends with access to their progress in a leaderboard fashion
 
 ### Technologies
 
@@ -58,7 +59,7 @@ I am going to use the required technologies in the following ways.
 - **Service** - Backend service with endpoints for:
     - Login
 - **DB/Login** - Stores users, language data in databases.
-- **WebSocket** - Provides progress-saving capabilities
+- **WebSocket** - Provides progress-saving capabilities as well as friends leaderboard updates.
 
 ## 🚀 AWS deliverable
 
