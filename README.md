@@ -1,4 +1,4 @@
-# Your startup name here
+# ANYO: Multilingual Penmanship
 
 [My Notes](notes.md)
 
@@ -37,9 +37,14 @@ This sketch contains a login screen, a homepage screen (with hints at a separate
 ```mermaid
 sequenceDiagram
     actor You
+    actor Friends
     actor Website
     You->>Website: Input
-    Website->>You: Progress
+    Friends->>Website: Input
+    Website->>You: Saved progress
+    Website->>Friends: Saved progress
+    Website-->>Friends: Leaderboard progress
+    Website-->>You: Friends' Leaderboard progress
 ```
 
 ### Key features
