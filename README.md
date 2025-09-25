@@ -20,9 +20,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 - [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] Description of key features
+- [x] Description of how you will use each technology
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -58,19 +58,21 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Three HTML pages: Login, Language/Lesson Selection, and Writing Practice.
+- **HTML** - Four HTML pages: Login, Language/Lesson Selection, Writing Practice, and Friends Leaderboard.
 - **CSS** - Good styling to different screen sizes, consistent branding & colors.
-- **React** - Provides login feature, displays language choices.
+- **React** - Provides login feature, displays language choices. Used in tracing feature of exercises.
 - **Service** - Backend service with endpoints for:
     - Login
-- **DB/Login** - Stores users, language data in databases.
+    - Language data from outside dictionary API
+    - and more!
+- **DB/Login** - Stores users, their progress per langauge, language data in databases.
 - **WebSocket** - Provides progress-saving capabilities as well as friends leaderboard updates.
 
 ## 🚀 AWS deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Server deployed and accessible with custom domain name** - [My server link](https://yourdomainnamehere.click).
+- [x] **Server deployed and accessible with custom domain name** - [Anyo Handwriting](https://anyohandwriting.page).
 
 ## 🚀 HTML deliverable
 
