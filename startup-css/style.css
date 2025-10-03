@@ -10,7 +10,24 @@ RESPONSIVENESS
 APPLICATION IMAGES
 */
 
-/* Body
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    height: 100vh;
+}
+
+header {
+    flex: 0 100px;
+    background: #666; /* Change color eventually */
+}
+
+header > img {
+    float: right;
+    /* DEBUG: This lets paragraph text wrap, but not h1 */
+}
+
+/* Main
     - index.html >> the login <form> as well as <h1>
     - homescreen.html >> <a> tag accessing lesson.html, <ul> future products
     - leaderboard.html >> <table> formatting, <p>
@@ -21,6 +38,12 @@ RESPONSIVENESS
 APPLICATION ELEMENTS
 APPLICATION TEXT
 */
+
+main {
+    flex: 1;
+    display: flex;
+    flex-direction: row;
+}
 
 /* Footer
 
@@ -34,3 +57,8 @@ GENERAL
 RESPONSIVENESS
 APPLICATION TEXT
 */
+
+footer {
+    flex: 0 30px;
+    background: #666;
+}
