@@ -1,0 +1,36 @@
+/* Header
+GENERAL
+    - This is the <header> tag, it's the same across all the .html files
+    - Contains the <nav>, <menu>, <img>, <h1>, <p> tags
+    - Coloring
+    - Centering (but keeping things left aligned)
+    
+NAVIGATION ELEMENTS
+RESPONSIVENESS
+APPLICATION IMAGES
+*/
+
+/* Body
+    - index.html >> the login <form> as well as <h1>
+    - homescreen.html >> <a> tag accessing lesson.html, <ul> future products
+    - leaderboard.html >> <table> formatting, <p>
+    - deseret.html >> <p><a> lessons
+    - lesson.html >> <p> placeholder paragraph
+
+RESPONSIVENESS
+APPLICATION ELEMENTS
+APPLICATION TEXT
+*/
+
+/* Footer
+
+GENERAL
+    - This is the <footer> tag
+    - Simple and consistent
+    - Coloring
+    - Centering
+    - Contains <span>, <a>, and <br> tags
+
+RESPONSIVENESS
+APPLICATION TEXT
+*/
