@@ -77,14 +77,14 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **HTML pages** - I did not complete this part of the deliverable.
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
-- [ ] **Links** - I did not complete this part of the deliverable.
-- [ ] **Text** - I did not complete this part of the deliverable.
+- [x] **HTML pages** - I created five .html pages for the login, homepage, course, lesson, and leaderboard areas of the website.
+- [x] **Proper HTML element usage** - I used various elements such as `<form>` and `<nav>`.
+- [x] **Links** - I included links to the github repository in the footer as well as to other areas of the website for navigation.
+- [x] **Text** - I included text for placeholder descriptions of parts of the website as well as for branding.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
-- [ ] **Images** - I did not complete this part of the deliverable.
-- [ ] **Login placeholder** - I did not complete this part of the deliverable.
-- [ ] **DB data placeholder** - I did not complete this part of the deliverable.
+- [x] **Images** - I included a placeholder image of the website's logo. This will be
+- [x] **Login placeholder** - I created a placeholder login in index.html
+- [x] **DB data placeholder** - The placeholder would be found with the lesson.html (since most data would be for lesson work)
 - [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
 
 ## 🚀 CSS deliverable
