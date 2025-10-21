@@ -64,4 +64,6 @@ APPLICATION TEXT
 footer {
     flex: 0 30px;
     background: #666;
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
