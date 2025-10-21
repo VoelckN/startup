@@ -28,18 +28,6 @@ header > img {
     top: 10px;
 }
 
-/* Main
-    - index.html >> the login <form> as well as <h1>
-    - homescreen.html >> <a> tag accessing lesson.html, <ul> future products
-    - leaderboard.html >> <table> formatting, <p>
-    - deseret.html >> <p><a> lessons
-    - lesson.html >> <p> placeholder paragraph
-
-RESPONSIVENESS
-APPLICATION ELEMENTS
-APPLICATION TEXT
-*/
-
 main {
     flex: 1;
     display: flex;
