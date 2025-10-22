@@ -193,6 +193,19 @@ switch (expression) {
   2. Constructor functions.
 
 ### 23. Yes, one can add new properties to JavaScript objects.
+They can use dot notation, like:
+```js
+const obj = {};
+obj.property = value;
+```
+They can also use bracket notation, like:
+```js
+obj["property"] = value;
+```
+> [! TIP]
+> Properties must be of type String or Symbol
+> Values can be any type however.
+
 
 ### 24. To include JS in an HTML page:
 
