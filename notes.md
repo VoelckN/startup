@@ -101,11 +101,11 @@ Handling the toggling of the checkboxes was particularly interesting.
 ```
 # MIDTERM NOTES
 
-18. How to style in JavaScript using an element's id: 
+### 18. How to style in JavaScript using an element's id: 
 ```js
 document.getElementById("given-id").style.color = "green"
 ```
-19. Opening HTML Tags!
+### 19. Opening HTML Tags!
 
 Paragraph: 
 ```html 
@@ -135,10 +135,10 @@ Headings:
 <h3>Third level heading</h3>
 ```
 
-20. To declare the document type as html, use:
+### 20. To declare the document type as html, use:
 ```html <!DOCTYPE html> ```
 
-21. Syntax for JavaScript
+### 21. Syntax for JavaScript
 
 If/else statement
 ```js
@@ -181,7 +181,7 @@ switch (expression) {
 }
 ```
 
-22. Ok, creating an object in JavaScript can be done in many different ways. Here are some.
+### 22. Ok, creating an object in JavaScript can be done in many different ways. Here are some.
 
   1. Object initializers. Takes a name and adds key-value pairs to them, which are the object's properties and its values.
   ```js
@@ -192,5 +192,43 @@ switch (expression) {
   ```
   2. Constructor functions.
 
+### 23. Yes, one can add new properties to JavaScript objects.
 
+### 24. To include JS in an HTML page:
+
+### 25. Using JavaScript to change text in HTML
+
+### 26. What is JSON?
+
+### 27. Various Console Commands
+- chmod
+- cd
+- ls
+- vim
+- nano
+- mkdir
+- mv
+- rm
+- man
+- ssh
+- ps
+- wget
+- sudo
+
+### 28. Using console to create a remote shell session
+
+### 29. -la parameter with ls in console
+
+### 30. Pieces of the domain name
+
+### 31. Is a web certificate necessary to use HTTPS?
+
+### 32. What can DNS A records point to?
+
+### 33. Ports to their Protocols
+- 443
+- 80
+- 22
+
+### 34. JavaScript using Promises
 
