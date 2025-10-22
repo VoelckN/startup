@@ -203,7 +203,8 @@ They can also use bracket notation, like:
 obj["property"] = value;
 ```
 > [!TIP]
-> Properties must be of type String or Symbol
+> Properties must be of type String or Symbol.
+>
 > Values can be any type however.
 
 
