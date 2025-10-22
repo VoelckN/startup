@@ -99,3 +99,98 @@ Handling the toggling of the checkboxes was particularly interesting.
   ))}
 </div>
 ```
+# MIDTERM NOTES
+
+18. How to style in JavaScript using an element's id: 
+```js
+document.getElementById("given-id").style.color = "green"
+```
+19. Opening HTML Tags!
+
+Paragraph: 
+```html 
+<p>Lorem ipsum dolor sit amet</p>
+```
+
+Ordered list:
+```html
+<ol>
+  <li> Ordered 1
+  <li> Ordered 2
+</ol>
+```
+
+Unordered list:
+```html
+<ul>
+  <li> Item
+  <li> Item
+</ul>
+```
+
+Headings:
+```html
+<h1>First level heading</h1>
+<h2>Second level heading</h2>
+<h3>Third level heading</h3>
+```
+
+20. To declare the document type as html, use:
+```html <!DOCTYPE html> ```
+
+21. Syntax for JavaScript
+
+If/else statement
+```js
+if (boolean_condition) {
+  perform_action();
+} else {
+  perform_other_action();
+}
+```
+
+For loop
+```js
+for (initialization; condition; finalExpression) {
+  //initialization = declaring and starting a loop counter variable
+  // condition = boolean evaluated before each iteration (often involving the counter variable)
+  // finalExpression = code executed at the end of the iteration to adjust the counter variable
+  execute_code();
+}
+```
+
+While loop
+```js
+while (boolean_condition) {
+  execute_code();
+}
+```
+
+Switch statement
+This serves as an if-else-if-else-if-else-if without being overly cluttered.
+```js
+switch (expression) {
+  case value1: // In the case that expression === value1, do the following code underneath:
+    execute_code_1();
+    break; // ends the switch block entirely
+  case value2:
+    execute_code_2();
+    break;
+  default:
+    backup_code_in_case_no_case_is_met();
+}
+```
+
+22. Ok, creating an object in JavaScript can be done in many different ways. Here are some.
+
+  1. Object initializers. Takes a name and adds key-value pairs to them, which are the object's properties and its values.
+  ```js
+  const obj = {
+    property1: value1,
+    property2: 500;
+  };
+  ```
+  2. Constructor functions.
+
+
+
