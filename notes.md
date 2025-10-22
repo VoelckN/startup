@@ -202,7 +202,7 @@ They can also use bracket notation, like:
 ```js
 obj["property"] = value;
 ```
-> [! TIP]
+> [!TIP]
 > Properties must be of type String or Symbol
 > Values can be any type however.
 
