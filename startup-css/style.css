@@ -37,6 +37,18 @@ main {
     align-items: center;
 }
 
+menu {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+menu li {
+    margin: 0px 30px;
+    padding: 15px;
+    background-color: rgb(166, 236, 177);
+}
+
 /* Footer
 
 GENERAL
