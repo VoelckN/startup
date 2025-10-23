@@ -91,12 +91,12 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Header, footer, and main content body** - I did not complete this part of the deliverable.
-- [ ] **Navigation elements** - I did not complete this part of the deliverable.
-- [ ] **Responsive to window resizing** - I did not complete this part of the deliverable.
-- [ ] **Application elements** - I did not complete this part of the deliverable.
-- [ ] **Application text content** - I did not complete this part of the deliverable.
-- [ ] **Application images** - I did not complete this part of the deliverable.
+- [x] **Header, footer, and main content body** - I added a header and footer, both with navigation to other parts of the website or to the github repository.
+- [x] **Navigation elements** - I added basic navigation and kept a consistent color scheme
+- [x] **Responsive to window resizing** - I included flex work to resize the window in standard instances (more will be done to enhance resizing for iPad usage.)
+- [x] **Application elements** - I included formatting for main elements which will include application content, images, 
+- [x] **Application text content** - I created formatting for text content including border work, padding, text color, background color, and other CSS properties.
+- [ ] **Application images** - I did not complete this part of the deliverable. The images themselves have yet to be made, and they will be made soon.
 
 ## 🚀 React part 1: Routing deliverable
 
