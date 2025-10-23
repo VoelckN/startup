@@ -23,10 +23,10 @@ header {
     background: #666; /* Change color eventually */
 }
 
-header > img {
+header img {
     position: absolute;
     right: 30px;
-    top: 10px;
+    top: 15px;
 }
 
 main {
