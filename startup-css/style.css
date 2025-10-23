@@ -18,6 +18,7 @@ body {
 }
 
 header {
+    padding-left: 10px;
     flex: 0 100px;
     background: #666; /* Change color eventually */
 }
